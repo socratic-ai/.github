@@ -11,7 +11,7 @@ Open an issue on the repository for the SDK you're using:
 
 ## Documentation
 
-Product and API documentation lives at [askcosmo.ai](https://askcosmo.ai).
+Product and API documentation lives at [platform.askcosmo.ai/docs](https://platform.askcosmo.ai/docs).
 
 ## Security issues
 
