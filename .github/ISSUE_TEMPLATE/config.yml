@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/socratic-ai/.github/blob/main/SECURITY.md
     about: Please use private vulnerability reporting, never a public issue.
   - name: Documentation
-    url: https://askcosmo.ai
+    url: https://platform.askcosmo.ai/docs
     about: Product and API documentation.

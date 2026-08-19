@@ -6,11 +6,11 @@ We build [Cosmo](https://askcosmo.ai) — realtime voice and multimodal AI agent
 
 | Platform | Repository | Install |
 |---|---|---|
+| TypeScript / Web | [cosmo-ai](https://github.com/socratic-ai/cosmo-ai) | `npm install cosmo-ai` |
+| Python | [cosmo-ai](https://github.com/socratic-ai/cosmo-ai) | `pip install cosmo-ai-sdk` |
 | Swift (macOS / iOS) | [cosmo-swift-sdk](https://github.com/socratic-ai/cosmo-swift-sdk) | Swift Package Manager, add by URL |
-| Python | [cosmo-python-sdk](https://github.com/socratic-ai/cosmo-python-sdk) | `pip install cosmo-ai-sdk` |
-| TypeScript / Web | [cosmo-typescript-sdk](https://github.com/socratic-ai/cosmo-typescript-sdk) | `npm install cosmo-ai` |
-| Examples | [cosmo-examples](https://github.com/socratic-ai/cosmo-examples) | Sample apps for all three SDKs |
+| Examples | [cosmo-ai `examples/`](https://github.com/socratic-ai/cosmo-ai/tree/main/examples) | Sample apps for all three SDKs |
 
-The SDKs are in beta (0.x): minor releases may include breaking changes, noted in each changelog.
+The SDKs are in beta (0.x): minor releases may include breaking changes, noted in the changelog.
 
-Questions or problems? Open an issue on the relevant SDK repository.
+Questions or problems? Open an issue on [cosmo-ai](https://github.com/socratic-ai/cosmo-ai/issues).

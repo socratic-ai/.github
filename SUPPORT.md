@@ -2,12 +2,10 @@
 
 ## Bugs and feature requests
 
-Open an issue on the repository for the SDK you're using:
-
-- Swift: [cosmo-swift-sdk](https://github.com/socratic-ai/cosmo-swift-sdk/issues)
-- Python: [cosmo-python-sdk](https://github.com/socratic-ai/cosmo-python-sdk/issues)
-- TypeScript: [cosmo-typescript-sdk](https://github.com/socratic-ai/cosmo-typescript-sdk/issues)
-- Examples: [cosmo-examples](https://github.com/socratic-ai/cosmo-examples/issues)
+Open an issue on [cosmo-ai](https://github.com/socratic-ai/cosmo-ai/issues) —
+the home of the TypeScript, Python, and Swift SDKs and the examples.
+(`cosmo-swift-sdk` is the Swift Package Manager distribution repository; its
+issue tracker is intentionally off, so Swift reports also go to `cosmo-ai`.)
 
 ## Documentation
 
