@@ -2,10 +2,11 @@
 
 Thanks for your interest in improving Cosmo — Socratic AI's realtime voice and
 multimodal agent SDKs. This guide applies across the public Cosmo repositories:
-[cosmo-typescript-sdk](https://github.com/socratic-ai/cosmo-typescript-sdk),
-[cosmo-python-sdk](https://github.com/socratic-ai/cosmo-python-sdk),
-[cosmo-swift-sdk](https://github.com/socratic-ai/cosmo-swift-sdk), and
-[cosmo-ai](https://github.com/socratic-ai/cosmo-ai).
+[cosmo-ai](https://github.com/socratic-ai/cosmo-ai), the home of the
+TypeScript, Python, and Swift SDKs and the examples, and
+[cosmo-swift-sdk](https://github.com/socratic-ai/cosmo-swift-sdk), the Swift
+Package Manager distribution repository derived from `cosmo-ai`'s `swift/`
+tree.
 
 ## How these repositories work
 

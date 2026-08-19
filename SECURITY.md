@@ -57,7 +57,7 @@ internal change rather than a public commit.
 ## Scope
 
 This policy covers the repositories in the `socratic-ai` organization,
-including the Cosmo SDKs (`cosmo-swift-sdk`, `cosmo-python-sdk`,
-`cosmo-typescript-sdk`) and `cosmo-ai`. For issues in the Cosmo
-service itself, use the same private reporting flow on any SDK repository
-and note that the report concerns the service.
+including `cosmo-ai` (the home of the Cosmo SDKs and examples) and
+`cosmo-swift-sdk` (the Swift Package Manager distribution repository).
+For issues in the Cosmo service itself, use the same private reporting
+flow on `cosmo-ai` and note that the report concerns the service.
